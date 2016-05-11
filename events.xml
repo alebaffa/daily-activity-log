@@ -14,7 +14,7 @@
       Create wiki for Software Craftsmanship Movement
     </action>
     <references>
-      <reference src="http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445" type="source" />
+      <reference src="https://github.com/sccommunity/community-wiki" type="source" />
     </references>
   </event>
 </events>
