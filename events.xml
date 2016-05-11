@@ -9,4 +9,12 @@
       <reference src="http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445" type="source" />
     </references>
   </event>
+  <event date="2016-05-11">
+    <action type="code" >
+      Create wiki for Software Craftsmanship Movement
+    </action>
+    <references>
+      <reference src="http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445" type="source" />
+    </references>
+  </event>
 </events>
