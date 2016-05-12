@@ -17,4 +17,9 @@
       <reference src="https://github.com/sccommunity/community-wiki" type="source" />
     </references>
   </event>
+  <event date="2016-05-12">
+    <action type="facilitating" >
+      Coding Dojo at Amadeus Nice.
+    </action>
+  </event>
 </events>
