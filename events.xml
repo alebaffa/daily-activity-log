@@ -22,4 +22,12 @@
       Coding Dojo at Amadeus Nice.
     </action>
   </event>
+  <event date="2014-05-12">
+    <action type="coding" >
+      Practicing Go with Exercism.io
+    </action>
+    <references>
+      <reference src="http://exercism.io/submissions/058f5e63993f43eab980aeac5c1fdb73" type="source" />
+    </references>
+  </event>
 </events>
