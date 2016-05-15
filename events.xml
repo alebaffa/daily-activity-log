@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2016-05-11">
-    <action type="reading">
-      Agile Software Development: Principles, Patterns and Practices - Section 2
+
+  <event date="2014-05-15">
+    <action type="coding">
+      UTF-8 encoding in Go. About to ask something on Reddit..
     </action>
-    <references>
-      <reference src="http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445" type="source" />
-    </references>
   </event>
-  <event date="2016-05-11">
-    <action type="code">
-      Create wiki for Software Craftsmanship Movement
+
+  <event date="2014-05-15">
+    <action type="coding">
+      Trying mocking call to database in Go web application.
     </action>
-    <references>
-      <reference src="https://github.com/sccommunity/community-wiki" type="source" />
-    </references>
   </event>
-  <event date="2016-05-12">
-    <action type="facilitating">
-      Coding Dojo at Amadeus Nice.
+
+  <event date="2014-05-14">
+    <action type="coding">
+      Field names in struct in Go must be capital letter if they have to be parsed by json library. Sh*t!
     </action>
   </event>
 
@@ -32,21 +29,28 @@
     </references>
   </event>
 
-  <event date="2014-05-14">
-    <action type="coding">
-      Field names in struct in Go must be capital letter if they have to be parsed by json library. Sh*t!
+  <event date="2016-05-12">
+    <action type="facilitating">
+      Coding Dojo at Amadeus Nice.
     </action>
   </event>
 
-  <event date="2014-05-15">
-    <action type="coding">
-      Trying mocking call to database in Go web application.
+  <event date="2016-05-11">
+    <action type="code">
+      Create wiki for Software Craftsmanship Movement
     </action>
+    <references>
+      <reference src="https://github.com/sccommunity/community-wiki" type="source" />
+    </references>
   </event>
 
-    <event date="2014-05-15">
-      <action type="coding">
-        UTF-8 encoding in Go. About to ask something on Reddit..
-      </action>
-    </event>
+  <event date="2016-05-11">
+    <action type="reading">
+      Agile Software Development: Principles, Patterns and Practices - Section 2
+    </action>
+    <references>
+      <reference src="http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445" type="source" />
+    </references>
+  </event>
+
 </events>
