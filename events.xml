@@ -4,7 +4,16 @@
 
   <event date="2014-05-15">
     <action type="coding">
-      UTF-8 encoding in Go. About to ask something on Reddit..
+      Anonymous functions in Go. Very nice solution for exercism.io.
+    </action>
+    <references>
+      <reference src="http://exercism.io/submissions/89d55696b1dd47e1a2cc9959815f8f8f" type="source" />
+    </references>
+  </event>
+
+  <event date="2014-05-15">
+    <action type="coding">
+      UTF-8 encoding in Go.
     </action>
   </event>
 
