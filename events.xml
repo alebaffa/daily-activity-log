@@ -44,4 +44,9 @@
     </action>
   </event>
 
+    <event date="2014-05-15">
+      <action type="coding">
+        UTF-8 encoding in Go. About to ask something on Reddit..
+      </action>
+    </event>
 </events>
