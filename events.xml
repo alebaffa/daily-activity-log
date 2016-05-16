@@ -2,6 +2,15 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
 
+  <event date="2014-05-16">
+    <action type="coding">
+      Still practicing in Exercism.io with Go. Cool exercice with go concurrency and anonymous function.
+    </action>
+    <references>
+      <reference src="http://exercism.io/submissions/b20c9f90e00c4219aee46e7e178d93bf" type="source" />
+    </references>
+  </event>
+
   <event date="2014-05-15">
     <action type="coding">
       Anonymous functions in Go. Very nice solution for exercism.io.
